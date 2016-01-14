@@ -18,4 +18,4 @@ a link in the form of *http://yourcivicrm.com/civicrm/event/private_ical?reset=1
 
 Use the link: 
 
-*http://yourcivicrm.com/civicrm/event/private_ical?reset=1&list=1&gData=1*
+*http://yourcivicrm.com/civicrm/event/private_ical?reset=1&list=1*
